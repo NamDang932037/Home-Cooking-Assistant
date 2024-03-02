@@ -4,10 +4,10 @@
 //Chip use: STM32F103C8T6 (Blue Pill)
 //PIN OUT
 
-//PORT A																	PORT B
-//PA0: L298N Enable												PB0: Button 
-//PA1: L298N IN1 (PWM)										PB6: SCL I2C LCD
-//PA2: Buzzer control											PB7: SDA I2C LCD
+//PORT A																PORT B
+//PA0: L298N Enable											PB0: Button 
+//PA1: L298N IN1 (PWM)									PB6: SCL I2C LCD
+//PA2: Buzzer control										PB7: SDA I2C LCD
 //PA3: L298N IN2 (PWM)										
 //PA4: LM35 ADC input
 //PA5: Gas sensor input
