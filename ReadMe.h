@@ -1,5 +1,5 @@
 // He thong bao chay va ho tro nau an
-//Made by: Ban Neo giau ten
+//Made by: NamDang932037
 
 //Chip use: STM32F103C8T6 (Blue Pill)
 //PIN OUT
